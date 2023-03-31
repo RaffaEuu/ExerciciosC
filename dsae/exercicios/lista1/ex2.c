@@ -3,16 +3,6 @@
 #include <math.h>
 
 
-int potenciacao(int base,int potencia){
-    int multiplicação = base;
-    for (size_t i = 1; i < potencia; i++){
-        multiplicação = multiplicação * base;
-    }
-    return multiplicação;
-}
-
-
-
 main(){
     float cA, cB, cC, delta, rdelta, maior, menor;
     printf("Digite o coeficiente A: ");
