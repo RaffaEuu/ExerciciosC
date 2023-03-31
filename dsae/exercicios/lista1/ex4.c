@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void main(){
+main(){
     float valor, recebido;
     int qnt;
 

@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void main(){
+main(){
     float glicose;
     printf("Digite a medida da glicose: ");
     scanf("%f", &glicose);
