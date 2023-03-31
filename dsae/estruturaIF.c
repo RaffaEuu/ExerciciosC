@@ -12,8 +12,7 @@ int main(){
 
     if (num1 > num2 && num1 > num3){
         printf("O %d é o maior", num1);
-    }else if(num2 > num1 && num2 > num3)
-    {
+    }else if(num2 > num1 && num2 > num3){
         printf("O %d é o maior", num2);
     }else{
 
